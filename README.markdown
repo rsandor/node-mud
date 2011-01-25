@@ -6,7 +6,7 @@ A simple node based mud server by Ryan Sandor Richards.
 License and Legalese
 --------------------------------------------------------------------------------
 
-Copyright (c) 2010 Ryan Sandor Richards
+Copyright (c) 2011 Ryan Sandor Richards
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
